@@ -1,0 +1,2 @@
+This folder will contain game assets like images and sounds.
+The game currently uses URLs for assets, but you can download them and place them here for better performance.
